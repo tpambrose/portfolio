@@ -1,190 +1,190 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on April 24, 2023 at 7:09 pm by All in One SEO v4.3.5.1 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on April 24, 2023 at 7:33 pm by All in One SEO v4.3.5.1 - the original SEO plugin for WordPress. -->
 
-<?xml-stylesheet type="text/xsl" href="https://https://tpambrose.github.io/portfolio/default.xsl?sitemap=product"?>
+<?xml-stylesheet type="text/xsl" href="/portfolio/default.xsl?sitemap=product"?>
 <urlset
 	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 	xmlns:xhtml="http://www.w3.org/1999/xhtml"
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
 	<url>
-		<loc><![CDATA[https://https://tpambrose.github.io/portfolio/product/zilopy-new-s7/]]></loc>
+		<loc><![CDATA[/portfolio/product/zilopy-new-s7/]]></loc>
 		<lastmod><![CDATA[2022-10-16T11:04:46+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://https://tpambrose.github.io/portfolio/wp-content/uploads/2022/10/product-6.jpg]]></image:loc>
+			<image:loc><![CDATA[/portfolio/wp-content/uploads/2022/10/product-6.jpg]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[https://https://tpambrose.github.io/portfolio/wp-content/uploads/2022/10/product-9.jpg]]></image:loc>
+			<image:loc><![CDATA[/portfolio/wp-content/uploads/2022/10/product-9.jpg]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[https://https://tpambrose.github.io/portfolio/wp-content/uploads/2022/10/product-10.jpg]]></image:loc>
+			<image:loc><![CDATA[/portfolio/wp-content/uploads/2022/10/product-10.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://https://tpambrose.github.io/portfolio/product/apple-14-max-pro/]]></loc>
+		<loc><![CDATA[/portfolio/product/apple-14-max-pro/]]></loc>
 		<lastmod><![CDATA[2022-10-16T09:51:20+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://https://tpambrose.github.io/portfolio/wp-content/uploads/2022/10/product-8.jpg]]></image:loc>
+			<image:loc><![CDATA[/portfolio/wp-content/uploads/2022/10/product-8.jpg]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[https://https://tpambrose.github.io/portfolio/wp-content/uploads/2022/10/product-9.jpg]]></image:loc>
+			<image:loc><![CDATA[/portfolio/wp-content/uploads/2022/10/product-9.jpg]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[https://https://tpambrose.github.io/portfolio/wp-content/uploads/2022/10/product-10.jpg]]></image:loc>
+			<image:loc><![CDATA[/portfolio/wp-content/uploads/2022/10/product-10.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://https://tpambrose.github.io/portfolio/product/irobo-pen-tablet/]]></loc>
+		<loc><![CDATA[/portfolio/product/irobo-pen-tablet/]]></loc>
 		<lastmod><![CDATA[2022-10-16T09:49:48+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://https://tpambrose.github.io/portfolio/wp-content/uploads/2022/10/product-3.jpg]]></image:loc>
+			<image:loc><![CDATA[/portfolio/wp-content/uploads/2022/10/product-3.jpg]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[https://https://tpambrose.github.io/portfolio/wp-content/uploads/2022/10/product-9.jpg]]></image:loc>
+			<image:loc><![CDATA[/portfolio/wp-content/uploads/2022/10/product-9.jpg]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[https://https://tpambrose.github.io/portfolio/wp-content/uploads/2022/10/product-10.jpg]]></image:loc>
+			<image:loc><![CDATA[/portfolio/wp-content/uploads/2022/10/product-10.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://https://tpambrose.github.io/portfolio/product/apple-watch-series-7-gps/]]></loc>
+		<loc><![CDATA[/portfolio/product/apple-watch-series-7-gps/]]></loc>
 		<lastmod><![CDATA[2022-10-16T09:48:24+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://https://tpambrose.github.io/portfolio/wp-content/uploads/2022/10/product-4.jpg]]></image:loc>
+			<image:loc><![CDATA[/portfolio/wp-content/uploads/2022/10/product-4.jpg]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[https://https://tpambrose.github.io/portfolio/wp-content/uploads/2022/10/product-9.jpg]]></image:loc>
+			<image:loc><![CDATA[/portfolio/wp-content/uploads/2022/10/product-9.jpg]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[https://https://tpambrose.github.io/portfolio/wp-content/uploads/2022/10/product-10.jpg]]></image:loc>
+			<image:loc><![CDATA[/portfolio/wp-content/uploads/2022/10/product-10.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://https://tpambrose.github.io/portfolio/product/vivo-cxz-nuton/]]></loc>
+		<loc><![CDATA[/portfolio/product/vivo-cxz-nuton/]]></loc>
 		<lastmod><![CDATA[2022-10-16T09:40:11+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://https://tpambrose.github.io/portfolio/wp-content/uploads/2022/10/product-7.jpg]]></image:loc>
+			<image:loc><![CDATA[/portfolio/wp-content/uploads/2022/10/product-7.jpg]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[https://https://tpambrose.github.io/portfolio/wp-content/uploads/2022/10/product-6.jpg]]></image:loc>
+			<image:loc><![CDATA[/portfolio/wp-content/uploads/2022/10/product-6.jpg]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[https://https://tpambrose.github.io/portfolio/wp-content/uploads/2022/10/product-2.jpg]]></image:loc>
+			<image:loc><![CDATA[/portfolio/wp-content/uploads/2022/10/product-2.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://https://tpambrose.github.io/portfolio/product/apple-monitor-rr2/]]></loc>
+		<loc><![CDATA[/portfolio/product/apple-monitor-rr2/]]></loc>
 		<lastmod><![CDATA[2022-10-16T09:38:29+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://https://tpambrose.github.io/portfolio/wp-content/uploads/2022/10/product-5.jpg]]></image:loc>
+			<image:loc><![CDATA[/portfolio/wp-content/uploads/2022/10/product-5.jpg]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[https://https://tpambrose.github.io/portfolio/wp-content/uploads/2022/10/product-1.jpg]]></image:loc>
+			<image:loc><![CDATA[/portfolio/wp-content/uploads/2022/10/product-1.jpg]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[https://https://tpambrose.github.io/portfolio/wp-content/uploads/2022/10/product-11.jpg]]></image:loc>
+			<image:loc><![CDATA[/portfolio/wp-content/uploads/2022/10/product-11.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://https://tpambrose.github.io/portfolio/product/apple-iphone-12-64gb/]]></loc>
+		<loc><![CDATA[/portfolio/product/apple-iphone-12-64gb/]]></loc>
 		<lastmod><![CDATA[2022-10-16T09:37:02+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://https://tpambrose.github.io/portfolio/wp-content/uploads/2022/10/product-9.jpg]]></image:loc>
+			<image:loc><![CDATA[/portfolio/wp-content/uploads/2022/10/product-9.jpg]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[https://https://tpambrose.github.io/portfolio/wp-content/uploads/2022/10/product-10.jpg]]></image:loc>
+			<image:loc><![CDATA[/portfolio/wp-content/uploads/2022/10/product-10.jpg]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[https://https://tpambrose.github.io/portfolio/wp-content/uploads/2022/10/product-9.jpg]]></image:loc>
+			<image:loc><![CDATA[/portfolio/wp-content/uploads/2022/10/product-9.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://https://tpambrose.github.io/portfolio/product/tablet-with-keyboard-10-1%e2%80%b3/]]></loc>
+		<loc><![CDATA[/portfolio/product/tablet-with-keyboard-10-1%e2%80%b3/]]></loc>
 		<lastmod><![CDATA[2022-10-16T09:20:58+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://https://tpambrose.github.io/portfolio/wp-content/uploads/2022/10/product-11.jpg]]></image:loc>
+			<image:loc><![CDATA[/portfolio/wp-content/uploads/2022/10/product-11.jpg]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[https://https://tpambrose.github.io/portfolio/wp-content/uploads/2022/10/product-3.jpg]]></image:loc>
+			<image:loc><![CDATA[/portfolio/wp-content/uploads/2022/10/product-3.jpg]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[https://https://tpambrose.github.io/portfolio/wp-content/uploads/2022/10/product-6.jpg]]></image:loc>
+			<image:loc><![CDATA[/portfolio/wp-content/uploads/2022/10/product-6.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://https://tpambrose.github.io/portfolio/product/apple-iphone-13-pro-max/]]></loc>
+		<loc><![CDATA[/portfolio/product/apple-iphone-13-pro-max/]]></loc>
 		<lastmod><![CDATA[2022-10-16T09:19:53+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://https://tpambrose.github.io/portfolio/wp-content/uploads/2022/10/product-10.jpg]]></image:loc>
+			<image:loc><![CDATA[/portfolio/wp-content/uploads/2022/10/product-10.jpg]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[https://https://tpambrose.github.io/portfolio/wp-content/uploads/2022/10/product-12.jpg]]></image:loc>
+			<image:loc><![CDATA[/portfolio/wp-content/uploads/2022/10/product-12.jpg]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[https://https://tpambrose.github.io/portfolio/wp-content/uploads/2022/10/product-9.jpg]]></image:loc>
+			<image:loc><![CDATA[/portfolio/wp-content/uploads/2022/10/product-9.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://https://tpambrose.github.io/portfolio/product/riaxy-7-0-dual-camera/]]></loc>
+		<loc><![CDATA[/portfolio/product/riaxy-7-0-dual-camera/]]></loc>
 		<lastmod><![CDATA[2022-10-16T09:17:11+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://https://tpambrose.github.io/portfolio/wp-content/uploads/2022/10/product-2.jpg]]></image:loc>
+			<image:loc><![CDATA[/portfolio/wp-content/uploads/2022/10/product-2.jpg]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[https://https://tpambrose.github.io/portfolio/wp-content/uploads/2022/10/product-7.jpg]]></image:loc>
+			<image:loc><![CDATA[/portfolio/wp-content/uploads/2022/10/product-7.jpg]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[https://https://tpambrose.github.io/portfolio/wp-content/uploads/2022/10/product-3.jpg]]></image:loc>
+			<image:loc><![CDATA[/portfolio/wp-content/uploads/2022/10/product-3.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://https://tpambrose.github.io/portfolio/product/apple-12-9-inch-ipad-pro/]]></loc>
+		<loc><![CDATA[/portfolio/product/apple-12-9-inch-ipad-pro/]]></loc>
 		<lastmod><![CDATA[2022-10-16T09:15:28+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://https://tpambrose.github.io/portfolio/wp-content/uploads/2022/10/product-12.jpg]]></image:loc>
+			<image:loc><![CDATA[/portfolio/wp-content/uploads/2022/10/product-12.jpg]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[https://https://tpambrose.github.io/portfolio/wp-content/uploads/2022/10/product-10.jpg]]></image:loc>
+			<image:loc><![CDATA[/portfolio/wp-content/uploads/2022/10/product-10.jpg]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[https://https://tpambrose.github.io/portfolio/wp-content/uploads/2022/10/product-9.jpg]]></image:loc>
+			<image:loc><![CDATA[/portfolio/wp-content/uploads/2022/10/product-9.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://https://tpambrose.github.io/portfolio/product/laptop-with-keyboard/]]></loc>
+		<loc><![CDATA[/portfolio/product/laptop-with-keyboard/]]></loc>
 		<lastmod><![CDATA[2022-10-16T08:05:29+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[https://https://tpambrose.github.io/portfolio/wp-content/uploads/2022/10/product-1.jpg]]></image:loc>
+			<image:loc><![CDATA[/portfolio/wp-content/uploads/2022/10/product-1.jpg]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[https://https://tpambrose.github.io/portfolio/wp-content/uploads/2022/10/product-2.jpg]]></image:loc>
+			<image:loc><![CDATA[/portfolio/wp-content/uploads/2022/10/product-2.jpg]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[https://https://tpambrose.github.io/portfolio/wp-content/uploads/2022/10/product-3.jpg]]></image:loc>
+			<image:loc><![CDATA[/portfolio/wp-content/uploads/2022/10/product-3.jpg]]></image:loc>
 		</image:image>
 	</url>
 </urlset>
