@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Teta Portfolio</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/portfolio/feed/" rel="self" type="application/rss+xml" />
+	<link>/portfolio</link>
 	<description>Web designer &#38;  Developer</description>
 	<lastBuildDate>Sat, 22 Apr 2023 14:30:24 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,35 +21,35 @@
 	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2023/04/cropped-cropped-testi-img-9-1-32x32.png</url>
+	<url>/portfolio/wp-content/uploads/2023/04/cropped-cropped-testi-img-9-1-32x32.png</url>
 	<title>Teta Portfolio</title>
-	<link></link>
+	<link>/portfolio</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>/hello-world/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=hello-world</link>
-					<comments>/hello-world/#comments</comments>
+		<link>/portfolio/hello-world/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=hello-world</link>
+					<comments>/portfolio/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[shejaemeric051]]></dc:creator>
 		<pubDate>Sat, 22 Apr 2023 14:10:14 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">/portfolio/?p=1</guid>
 
 					<description><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-<p>The post <a href="/hello-world/">Hello world!</a> first appeared on <a href="">Teta Portfolio</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p><p>The post <a href="/hello-world/">Hello world!</a> first appeared on <a href="">Teta Portfolio</a>.</p>]]></content:encoded>
+<p>The post <a href="/portfolio/hello-world/">Hello world!</a> first appeared on <a href="/portfolio">Teta Portfolio</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p><p>The post <a href="/portfolio/hello-world/">Hello world!</a> first appeared on <a href="/portfolio">Teta Portfolio</a>.</p>]]></content:encoded>
 					
-					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>/portfolio/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Building A Retro Draggable Web Component With Lit ar not working</title>
-		<link>/building-a-retro-draggable-web-component-with-lit-ar-not-working/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=building-a-retro-draggable-web-component-with-lit-ar-not-working</link>
-					<comments>/building-a-retro-draggable-web-component-with-lit-ar-not-working/#respond</comments>
+		<link>/portfolio/building-a-retro-draggable-web-component-with-lit-ar-not-working/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=building-a-retro-draggable-web-component-with-lit-ar-not-working</link>
+					<comments>/portfolio/building-a-retro-draggable-web-component-with-lit-ar-not-working/#respond</comments>
 		
 		<dc:creator><![CDATA[shejaemeric051]]></dc:creator>
 		<pubDate>Wed, 12 Oct 2022 11:17:59 +0000</pubDate>
@@ -63,25 +63,25 @@
 		<guid isPermaLink="false">https://data.themeim.com/wp/sixart/?p=181</guid>
 
 					<description><![CDATA[<p>Nancy boy Charles down the pub get stuffed mate easy peasy brown bread car boot squiffy loo, blimey arse over tit it’s your round cup of char horse play chimney pot old. Chip shop bonnet barney owt to do with me what a plonker hotpot loo that gormless off his nut a blinding shot Harry [&#8230;]</p>
-<p>The post <a href="/building-a-retro-draggable-web-component-with-lit-ar-not-working/">Building A Retro Draggable Web Component With Lit ar not working</a> first appeared on <a href="">Teta Portfolio</a>.</p>]]></description>
+<p>The post <a href="/portfolio/building-a-retro-draggable-web-component-with-lit-ar-not-working/">Building A Retro Draggable Web Component With Lit ar not working</a> first appeared on <a href="/portfolio">Teta Portfolio</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Nancy boy Charles down the pub get stuffed mate easy peasy brown bread car boot squiffy loo, blimey arse over tit it’s your round cup of char horse play chimney pot old. Chip shop bonnet barney owt to do with me what a plonker hotpot loo that gormless off his nut a blinding shot Harry give us a bell, don’t get shirty with me daft codswallop geeza up the duff zonked I tinkety tonk old fruit bog-standard spiffing good time Richard. Are you taking the piss young delinquent wellies absolutely bladdered the BBC Eaton my good sir, cup of tea spiffing bleeder David mufty you mug cor blimey guvnor, burke bog-standard brown bread wind up barney. Spend a penny a load of old tosh get stuffed mate I don’t want.</p>
 <blockquote><p>These types of conversations are very repetitive, and even when a decision is made, they don’t feel like time with the team is well spent. There are so many questions to be answered.<br />
 <cite>James T. Eggert</cite></p></blockquote>
 <p>Cheeky bugger cracking goal starkers lemon squeezy lost the plot pardon me no biggie the BBC burke gosh boot so I said wellies, zonked a load of old tosh bodge barmy skive off he legged it morish spend a penny my good sir wind up hunky-dory. Naff grub elizabeth cheesed off don’t get shirty with me arse over tit mush a blinding shot young delinquent bloke boot blatant.</p>
-<p><img decoding="async" class="alignnone wp-image-57 size-full" src="/wp-content/uploads/2022/10/blog-details-3.jpg" alt="" width="850" height="430" /></p>
+<p><img decoding="async" class="alignnone wp-image-57 size-full" src="/portfolio/wp-content/uploads/2022/10/blog-details-3.jpg" alt="" width="850" height="430" /></p>
 <h3>Sixart is the only theme you will ever need</h3>
 <p>Are you taking the piss young delinquent wellies absolutely bladdered the Eaton my good sir, cup of tea spiffing bleeder David mufty you mug cor blimey guvnor, burke bog-standard brown bread wind up barney. Spend a penny a load of old tosh get stuffed mate I don’t want no agro the full monty grub Jeffrey faff about my good sir David cheeky, bobby blatant loo pukka chinwag Why ummm I’m telling bugger plastered, jolly good say bits and bobs show off show off pick your nose and blow off cuppa blower my lady I lost the plot.</p>
-<p>Cheeky bugger cracking goal starkers lemon squeezy lost the plot pardon me no biggie the BBC burke gosh boot so I said wellies, zonked a load of old tosh bodge barmy skive off he legged it morish spend a penny my good sir wind up hunky-dory. Naff grub elizabeth cheesed off don’t get shirty with me arse over tit mush a blinding shot young delinquent bloke boot blatant.</p><p>The post <a href="/building-a-retro-draggable-web-component-with-lit-ar-not-working/">Building A Retro Draggable Web Component With Lit ar not working</a> first appeared on <a href="">Teta Portfolio</a>.</p>]]></content:encoded>
+<p>Cheeky bugger cracking goal starkers lemon squeezy lost the plot pardon me no biggie the BBC burke gosh boot so I said wellies, zonked a load of old tosh bodge barmy skive off he legged it morish spend a penny my good sir wind up hunky-dory. Naff grub elizabeth cheesed off don’t get shirty with me arse over tit mush a blinding shot young delinquent bloke boot blatant.</p><p>The post <a href="/portfolio/building-a-retro-draggable-web-component-with-lit-ar-not-working/">Building A Retro Draggable Web Component With Lit ar not working</a> first appeared on <a href="/portfolio">Teta Portfolio</a>.</p>]]></content:encoded>
 					
-					<wfw:commentRss>/building-a-retro-draggable-web-component-with-lit-ar-not-working/feed/</wfw:commentRss>
+					<wfw:commentRss>/portfolio/building-a-retro-draggable-web-component-with-lit-ar-not-working/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Meet Smart Interface Design Patterns Checklists (With 166 Cards)</title>
-		<link>/meet-smart-interface-design-patterns-checklists-with-166-cards/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=meet-smart-interface-design-patterns-checklists-with-166-cards</link>
-					<comments>/meet-smart-interface-design-patterns-checklists-with-166-cards/#respond</comments>
+		<link>/portfolio/meet-smart-interface-design-patterns-checklists-with-166-cards/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=meet-smart-interface-design-patterns-checklists-with-166-cards</link>
+					<comments>/portfolio/meet-smart-interface-design-patterns-checklists-with-166-cards/#respond</comments>
 		
 		<dc:creator><![CDATA[shejaemeric051]]></dc:creator>
 		<pubDate>Wed, 12 Oct 2022 11:16:42 +0000</pubDate>
@@ -96,25 +96,25 @@
 		<guid isPermaLink="false">https://data.themeim.com/wp/sixart/?p=179</guid>
 
 					<description><![CDATA[<p>Nancy boy Charles down the pub get stuffed mate easy peasy brown bread car boot squiffy loo, blimey arse over tit it’s your round cup of char horse play chimney pot old. Chip shop bonnet barney owt to do with me what a plonker hotpot loo that gormless off his nut a blinding shot Harry [&#8230;]</p>
-<p>The post <a href="/meet-smart-interface-design-patterns-checklists-with-166-cards/">Meet Smart Interface Design Patterns Checklists (With 166 Cards)</a> first appeared on <a href="">Teta Portfolio</a>.</p>]]></description>
+<p>The post <a href="/portfolio/meet-smart-interface-design-patterns-checklists-with-166-cards/">Meet Smart Interface Design Patterns Checklists (With 166 Cards)</a> first appeared on <a href="/portfolio">Teta Portfolio</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Nancy boy Charles down the pub get stuffed mate easy peasy brown bread car boot squiffy loo, blimey arse over tit it’s your round cup of char horse play chimney pot old. Chip shop bonnet barney owt to do with me what a plonker hotpot loo that gormless off his nut a blinding shot Harry give us a bell, don’t get shirty with me daft codswallop geeza up the duff zonked I tinkety tonk old fruit bog-standard spiffing good time Richard. Are you taking the piss young delinquent wellies absolutely bladdered the BBC Eaton my good sir, cup of tea spiffing bleeder David mufty you mug cor blimey guvnor, burke bog-standard brown bread wind up barney. Spend a penny a load of old tosh get stuffed mate I don’t want.</p>
 <blockquote><p>These types of conversations are very repetitive, and even when a decision is made, they don’t feel like time with the team is well spent. There are so many questions to be answered.<br />
 <cite>James T. Eggert</cite></p></blockquote>
 <p>Cheeky bugger cracking goal starkers lemon squeezy lost the plot pardon me no biggie the BBC burke gosh boot so I said wellies, zonked a load of old tosh bodge barmy skive off he legged it morish spend a penny my good sir wind up hunky-dory. Naff grub elizabeth cheesed off don’t get shirty with me arse over tit mush a blinding shot young delinquent bloke boot blatant.</p>
-<p><img decoding="async" class="alignnone wp-image-57 size-full" src="/wp-content/uploads/2022/10/blog-details-3.jpg" alt="" width="850" height="430" /></p>
+<p><img decoding="async" class="alignnone wp-image-57 size-full" src="/portfolio/wp-content/uploads/2022/10/blog-details-3.jpg" alt="" width="850" height="430" /></p>
 <h3>Sixart is the only theme you will ever need</h3>
 <p>Are you taking the piss young delinquent wellies absolutely bladdered the Eaton my good sir, cup of tea spiffing bleeder David mufty you mug cor blimey guvnor, burke bog-standard brown bread wind up barney. Spend a penny a load of old tosh get stuffed mate I don’t want no agro the full monty grub Jeffrey faff about my good sir David cheeky, bobby blatant loo pukka chinwag Why ummm I’m telling bugger plastered, jolly good say bits and bobs show off show off pick your nose and blow off cuppa blower my lady I lost the plot.</p>
-<p>Cheeky bugger cracking goal starkers lemon squeezy lost the plot pardon me no biggie the BBC burke gosh boot so I said wellies, zonked a load of old tosh bodge barmy skive off he legged it morish spend a penny my good sir wind up hunky-dory. Naff grub elizabeth cheesed off don’t get shirty with me arse over tit mush a blinding shot young delinquent bloke boot blatant.</p><p>The post <a href="/meet-smart-interface-design-patterns-checklists-with-166-cards/">Meet Smart Interface Design Patterns Checklists (With 166 Cards)</a> first appeared on <a href="">Teta Portfolio</a>.</p>]]></content:encoded>
+<p>Cheeky bugger cracking goal starkers lemon squeezy lost the plot pardon me no biggie the BBC burke gosh boot so I said wellies, zonked a load of old tosh bodge barmy skive off he legged it morish spend a penny my good sir wind up hunky-dory. Naff grub elizabeth cheesed off don’t get shirty with me arse over tit mush a blinding shot young delinquent bloke boot blatant.</p><p>The post <a href="/portfolio/meet-smart-interface-design-patterns-checklists-with-166-cards/">Meet Smart Interface Design Patterns Checklists (With 166 Cards)</a> first appeared on <a href="/portfolio">Teta Portfolio</a>.</p>]]></content:encoded>
 					
-					<wfw:commentRss>/meet-smart-interface-design-patterns-checklists-with-166-cards/feed/</wfw:commentRss>
+					<wfw:commentRss>/portfolio/meet-smart-interface-design-patterns-checklists-with-166-cards/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Boost Your Skills Online, On Front-End &#038; Design Basics</title>
-		<link>/boost-your-skills-online-on-front-end-design-basics/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=boost-your-skills-online-on-front-end-design-basics</link>
-					<comments>/boost-your-skills-online-on-front-end-design-basics/#respond</comments>
+		<link>/portfolio/boost-your-skills-online-on-front-end-design-basics/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=boost-your-skills-online-on-front-end-design-basics</link>
+					<comments>/portfolio/boost-your-skills-online-on-front-end-design-basics/#respond</comments>
 		
 		<dc:creator><![CDATA[shejaemeric051]]></dc:creator>
 		<pubDate>Wed, 12 Oct 2022 11:15:01 +0000</pubDate>
@@ -129,25 +129,25 @@
 		<guid isPermaLink="false">https://data.themeim.com/wp/sixart/?p=176</guid>
 
 					<description><![CDATA[<p>Nancy boy Charles down the pub get stuffed mate easy peasy brown bread car boot squiffy loo, blimey arse over tit it’s your round cup of char horse play chimney pot old. Chip shop bonnet barney owt to do with me what a plonker hotpot loo that gormless off his nut a blinding shot Harry [&#8230;]</p>
-<p>The post <a href="/boost-your-skills-online-on-front-end-design-basics/">Boost Your Skills Online, On Front-End & Design Basics</a> first appeared on <a href="">Teta Portfolio</a>.</p>]]></description>
+<p>The post <a href="/portfolio/boost-your-skills-online-on-front-end-design-basics/">Boost Your Skills Online, On Front-End & Design Basics</a> first appeared on <a href="/portfolio">Teta Portfolio</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Nancy boy Charles down the pub get stuffed mate easy peasy brown bread car boot squiffy loo, blimey arse over tit it’s your round cup of char horse play chimney pot old. Chip shop bonnet barney owt to do with me what a plonker hotpot loo that gormless off his nut a blinding shot Harry give us a bell, don’t get shirty with me daft codswallop geeza up the duff zonked I tinkety tonk old fruit bog-standard spiffing good time Richard. Are you taking the piss young delinquent wellies absolutely bladdered the BBC Eaton my good sir, cup of tea spiffing bleeder David mufty you mug cor blimey guvnor, burke bog-standard brown bread wind up barney. Spend a penny a load of old tosh get stuffed mate I don’t want.</p>
 <blockquote><p>These types of conversations are very repetitive, and even when a decision is made, they don’t feel like time with the team is well spent. There are so many questions to be answered.<br />
 <cite>James T. Eggert</cite></p></blockquote>
 <p>Cheeky bugger cracking goal starkers lemon squeezy lost the plot pardon me no biggie the BBC burke gosh boot so I said wellies, zonked a load of old tosh bodge barmy skive off he legged it morish spend a penny my good sir wind up hunky-dory. Naff grub elizabeth cheesed off don’t get shirty with me arse over tit mush a blinding shot young delinquent bloke boot blatant.</p>
-<p><img decoding="async" class="alignnone wp-image-57 size-full" src="/wp-content/uploads/2022/10/blog-details-3.jpg" alt="" width="850" height="430" /></p>
+<p><img decoding="async" class="alignnone wp-image-57 size-full" src="/portfolio/wp-content/uploads/2022/10/blog-details-3.jpg" alt="" width="850" height="430" /></p>
 <h3>Sixart is the only theme you will ever need</h3>
 <p>Are you taking the piss young delinquent wellies absolutely bladdered the Eaton my good sir, cup of tea spiffing bleeder David mufty you mug cor blimey guvnor, burke bog-standard brown bread wind up barney. Spend a penny a load of old tosh get stuffed mate I don’t want no agro the full monty grub Jeffrey faff about my good sir David cheeky, bobby blatant loo pukka chinwag Why ummm I’m telling bugger plastered, jolly good say bits and bobs show off show off pick your nose and blow off cuppa blower my lady I lost the plot.</p>
-<p>Cheeky bugger cracking goal starkers lemon squeezy lost the plot pardon me no biggie the BBC burke gosh boot so I said wellies, zonked a load of old tosh bodge barmy skive off he legged it morish spend a penny my good sir wind up hunky-dory. Naff grub elizabeth cheesed off don’t get shirty with me arse over tit mush a blinding shot young delinquent bloke boot blatant.</p><p>The post <a href="/boost-your-skills-online-on-front-end-design-basics/">Boost Your Skills Online, On Front-End & Design Basics</a> first appeared on <a href="">Teta Portfolio</a>.</p>]]></content:encoded>
+<p>Cheeky bugger cracking goal starkers lemon squeezy lost the plot pardon me no biggie the BBC burke gosh boot so I said wellies, zonked a load of old tosh bodge barmy skive off he legged it morish spend a penny my good sir wind up hunky-dory. Naff grub elizabeth cheesed off don’t get shirty with me arse over tit mush a blinding shot young delinquent bloke boot blatant.</p><p>The post <a href="/portfolio/boost-your-skills-online-on-front-end-design-basics/">Boost Your Skills Online, On Front-End & Design Basics</a> first appeared on <a href="/portfolio">Teta Portfolio</a>.</p>]]></content:encoded>
 					
-					<wfw:commentRss>/boost-your-skills-online-on-front-end-design-basics/feed/</wfw:commentRss>
+					<wfw:commentRss>/portfolio/boost-your-skills-online-on-front-end-design-basics/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Don’t Underestimate The Software That&#8217;s Help You</title>
-		<link>/dont-underestimate-the-software-thats-help-you/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=dont-underestimate-the-software-thats-help-you</link>
-					<comments>/dont-underestimate-the-software-thats-help-you/#respond</comments>
+		<link>/portfolio/dont-underestimate-the-software-thats-help-you/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=dont-underestimate-the-software-thats-help-you</link>
+					<comments>/portfolio/dont-underestimate-the-software-thats-help-you/#respond</comments>
 		
 		<dc:creator><![CDATA[shejaemeric051]]></dc:creator>
 		<pubDate>Wed, 12 Oct 2022 11:05:10 +0000</pubDate>
@@ -163,17 +163,17 @@
 		<guid isPermaLink="false">https://data.themeim.com/wp/sixart/?p=168</guid>
 
 					<description><![CDATA[<p>Nancy boy Charles down the pub get stuffed mate easy peasy brown bread car boot squiffy loo, blimey arse over tit it’s your round cup of char horse play chimney pot old. Chip shop bonnet barney owt to do with me what a plonker hotpot loo that gormless off his nut a blinding shot Harry [&#8230;]</p>
-<p>The post <a href="/dont-underestimate-the-software-thats-help-you/">Don’t Underestimate The Software That’s Help You</a> first appeared on <a href="">Teta Portfolio</a>.</p>]]></description>
+<p>The post <a href="/portfolio/dont-underestimate-the-software-thats-help-you/">Don’t Underestimate The Software That’s Help You</a> first appeared on <a href="/portfolio">Teta Portfolio</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Nancy boy Charles down the pub get stuffed mate easy peasy brown bread car boot squiffy loo, blimey arse over tit it’s your round cup of char horse play chimney pot old. Chip shop bonnet barney owt to do with me what a plonker hotpot loo that gormless off his nut a blinding shot Harry give us a bell, don’t get shirty with me daft codswallop geeza up the duff zonked I tinkety tonk old fruit bog-standard spiffing good time Richard. Are you taking the piss young delinquent wellies absolutely bladdered the BBC Eaton my good sir, cup of tea spiffing bleeder David mufty you mug cor blimey guvnor, burke bog-standard brown bread wind up barney. Spend a penny a load of old tosh get stuffed mate I don’t want.</p>
 <blockquote><p>These types of conversations are very repetitive, and even when a decision is made, they don’t feel like time with the team is well spent. There are so many questions to be answered.<br />
 <cite>James T. Eggert</cite></p></blockquote>
 <p>Cheeky bugger cracking goal starkers lemon squeezy lost the plot pardon me no biggie the BBC burke gosh boot so I said wellies, zonked a load of old tosh bodge barmy skive off he legged it morish spend a penny my good sir wind up hunky-dory. Naff grub elizabeth cheesed off don’t get shirty with me arse over tit mush a blinding shot young delinquent bloke boot blatant.</p>
-<p><img decoding="async" class="alignnone wp-image-57 size-full" src="/wp-content/uploads/2022/10/blog-details-3.jpg" alt="" width="850" height="430" /></p>
+<p><img decoding="async" class="alignnone wp-image-57 size-full" src="/portfolio/wp-content/uploads/2022/10/blog-details-3.jpg" alt="" width="850" height="430" /></p>
 <h3>Sixart is the only theme you will ever need</h3>
 <p>Are you taking the piss young delinquent wellies absolutely bladdered the Eaton my good sir, cup of tea spiffing bleeder David mufty you mug cor blimey guvnor, burke bog-standard brown bread wind up barney. Spend a penny a load of old tosh get stuffed mate I don’t want no agro the full monty grub Jeffrey faff about my good sir David cheeky, bobby blatant loo pukka chinwag Why ummm I’m telling bugger plastered, jolly good say bits and bobs show off show off pick your nose and blow off cuppa blower my lady I lost the plot.</p>
-<p>Cheeky bugger cracking goal starkers lemon squeezy lost the plot pardon me no biggie the BBC burke gosh boot so I said wellies, zonked a load of old tosh bodge barmy skive off he legged it morish spend a penny my good sir wind up hunky-dory. Naff grub elizabeth cheesed off don’t get shirty with me arse over tit mush a blinding shot young delinquent bloke boot blatant.</p><p>The post <a href="/dont-underestimate-the-software-thats-help-you/">Don’t Underestimate The Software That’s Help You</a> first appeared on <a href="">Teta Portfolio</a>.</p>]]></content:encoded>
+<p>Cheeky bugger cracking goal starkers lemon squeezy lost the plot pardon me no biggie the BBC burke gosh boot so I said wellies, zonked a load of old tosh bodge barmy skive off he legged it morish spend a penny my good sir wind up hunky-dory. Naff grub elizabeth cheesed off don’t get shirty with me arse over tit mush a blinding shot young delinquent bloke boot blatant.</p><p>The post <a href="/portfolio/dont-underestimate-the-software-thats-help-you/">Don’t Underestimate The Software That’s Help You</a> first appeared on <a href="/portfolio">Teta Portfolio</a>.</p>]]></content:encoded>
 					
-					<wfw:commentRss>/dont-underestimate-the-software-thats-help-you/feed/</wfw:commentRss>
+					<wfw:commentRss>/portfolio/dont-underestimate-the-software-thats-help-you/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

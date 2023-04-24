@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on April 24, 2023 at 11:36 am by All in One SEO v4.3.5.1 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on April 24, 2023 at 3:51 pm by All in One SEO v4.3.5.1 - the original SEO plugin for WordPress. -->
 
-<?xml-stylesheet type="text/xsl" href="/default.xsl?sitemap=product_cat"?>
+<?xml-stylesheet type="text/xsl" href="/portfolio/default.xsl?sitemap=product_cat"?>
 <urlset
 	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 	xmlns:xhtml="http://www.w3.org/1999/xhtml"
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
 	<url>
-		<loc><![CDATA[/product-category/accesories/]]></loc>
+		<loc><![CDATA[/portfolio/product-category/accesories/]]></loc>
 		<lastmod><![CDATA[2022-10-16T11:04:46+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/product-category/electronic/]]></loc>
+		<loc><![CDATA[/portfolio/product-category/electronic/]]></loc>
 		<lastmod><![CDATA[2022-10-16T11:04:46+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/product-category/laptop/]]></loc>
+		<loc><![CDATA[/portfolio/product-category/laptop/]]></loc>
 		<lastmod><![CDATA[2022-10-16T09:48:24+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/product-category/media/]]></loc>
+		<loc><![CDATA[/portfolio/product-category/media/]]></loc>
 		<lastmod><![CDATA[2022-10-16T11:04:46+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/product-category/mobile/]]></loc>
+		<loc><![CDATA[/portfolio/product-category/mobile/]]></loc>
 		<lastmod><![CDATA[2022-10-16T09:37:02+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/product-category/smart-phone/]]></loc>
+		<loc><![CDATA[/portfolio/product-category/smart-phone/]]></loc>
 		<lastmod><![CDATA[2022-10-16T11:04:46+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
