@@ -1,62 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on April 24, 2023 at 3:51 pm by All in One SEO v4.3.5.1 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on April 24, 2023 at 7:09 pm by All in One SEO v4.3.5.1 - the original SEO plugin for WordPress. -->
 
-<?xml-stylesheet type="text/xsl" href="/portfolio/default.xsl?sitemap=post"?>
+<?xml-stylesheet type="text/xsl" href="https://https://tpambrose.github.io/portfolio/default.xsl?sitemap=post"?>
 <urlset
 	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 	xmlns:xhtml="http://www.w3.org/1999/xhtml"
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
 	<url>
-		<loc><![CDATA[/portfolio/dont-underestimate-the-software-thats-help-you/]]></loc>
+		<loc><![CDATA[https://https://tpambrose.github.io/portfolio/dont-underestimate-the-software-thats-help-you/]]></loc>
 		<lastmod><![CDATA[2023-04-22T14:30:24+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[/portfolio/wp-content/uploads/2022/10/blog-details.jpg]]></image:loc>
+			<image:loc><![CDATA[https://https://tpambrose.github.io/portfolio/wp-content/uploads/2022/10/blog-details.jpg]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[/portfolio/wp-content/uploads/2022/10/blog-details-3.jpg]]></image:loc>
+			<image:loc><![CDATA[https://https://tpambrose.github.io/portfolio/wp-content/uploads/2022/10/blog-details-3.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/portfolio/boost-your-skills-online-on-front-end-design-basics/]]></loc>
+		<loc><![CDATA[https://https://tpambrose.github.io/portfolio/boost-your-skills-online-on-front-end-design-basics/]]></loc>
 		<lastmod><![CDATA[2023-04-22T14:30:24+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[/portfolio/wp-content/uploads/2022/10/blog-details-3.jpg]]></image:loc>
+			<image:loc><![CDATA[https://https://tpambrose.github.io/portfolio/wp-content/uploads/2022/10/blog-details-3.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/portfolio/meet-smart-interface-design-patterns-checklists-with-166-cards/]]></loc>
+		<loc><![CDATA[https://https://tpambrose.github.io/portfolio/meet-smart-interface-design-patterns-checklists-with-166-cards/]]></loc>
 		<lastmod><![CDATA[2023-04-22T14:30:24+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[/portfolio/wp-content/uploads/2022/10/blog-details-2.jpg]]></image:loc>
+			<image:loc><![CDATA[https://https://tpambrose.github.io/portfolio/wp-content/uploads/2022/10/blog-details-2.jpg]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[/portfolio/wp-content/uploads/2022/10/blog-details-3.jpg]]></image:loc>
+			<image:loc><![CDATA[https://https://tpambrose.github.io/portfolio/wp-content/uploads/2022/10/blog-details-3.jpg]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[/portfolio/wp-content/uploads/2022/10/blog-details.jpg]]></image:loc>
+			<image:loc><![CDATA[https://https://tpambrose.github.io/portfolio/wp-content/uploads/2022/10/blog-details.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/portfolio/building-a-retro-draggable-web-component-with-lit-ar-not-working/]]></loc>
+		<loc><![CDATA[https://https://tpambrose.github.io/portfolio/building-a-retro-draggable-web-component-with-lit-ar-not-working/]]></loc>
 		<lastmod><![CDATA[2023-04-22T14:30:24+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[/portfolio/wp-content/uploads/2022/10/blog-details.jpg]]></image:loc>
+			<image:loc><![CDATA[https://https://tpambrose.github.io/portfolio/wp-content/uploads/2022/10/blog-details.jpg]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[/portfolio/wp-content/uploads/2022/10/blog-details-3.jpg]]></image:loc>
+			<image:loc><![CDATA[https://https://tpambrose.github.io/portfolio/wp-content/uploads/2022/10/blog-details-3.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/portfolio/hello-world/]]></loc>
+		<loc><![CDATA[https://https://tpambrose.github.io/portfolio/hello-world/]]></loc>
 		<lastmod><![CDATA[2023-04-22T14:10:14+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>

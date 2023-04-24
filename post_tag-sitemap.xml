@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on April 24, 2023 at 3:51 pm by All in One SEO v4.3.5.1 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on April 24, 2023 at 7:09 pm by All in One SEO v4.3.5.1 - the original SEO plugin for WordPress. -->
 
-<?xml-stylesheet type="text/xsl" href="/portfolio/default.xsl?sitemap=post_tag"?>
+<?xml-stylesheet type="text/xsl" href="https://https://tpambrose.github.io/portfolio/default.xsl?sitemap=post_tag"?>
 <urlset
 	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 	xmlns:xhtml="http://www.w3.org/1999/xhtml"
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
 	<url>
-		<loc><![CDATA[/portfolio/tag/apps/]]></loc>
+		<loc><![CDATA[https://https://tpambrose.github.io/portfolio/tag/apps/]]></loc>
 		<lastmod><![CDATA[2023-04-22T14:30:24+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/portfolio/tag/book/]]></loc>
+		<loc><![CDATA[https://https://tpambrose.github.io/portfolio/tag/book/]]></loc>
 		<lastmod><![CDATA[2023-04-22T14:30:24+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/portfolio/tag/charity/]]></loc>
+		<loc><![CDATA[https://https://tpambrose.github.io/portfolio/tag/charity/]]></loc>
 		<lastmod><![CDATA[2023-04-22T14:30:24+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/portfolio/tag/data/]]></loc>
+		<loc><![CDATA[https://https://tpambrose.github.io/portfolio/tag/data/]]></loc>
 		<lastmod><![CDATA[2023-04-22T14:30:24+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/portfolio/tag/education/]]></loc>
+		<loc><![CDATA[https://https://tpambrose.github.io/portfolio/tag/education/]]></loc>
 		<lastmod><![CDATA[2023-04-22T14:30:24+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/portfolio/tag/landing/]]></loc>
+		<loc><![CDATA[https://https://tpambrose.github.io/portfolio/tag/landing/]]></loc>
 		<lastmod><![CDATA[2023-04-22T14:30:24+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
